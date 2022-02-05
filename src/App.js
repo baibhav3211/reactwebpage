@@ -30,7 +30,7 @@ function App() {
 
       //  `https://lucid-pasteur-40c28b.netlify.app/` 
 
-       'http://localhost:3000/'
+       'https://baibhav3211.github.io/reactwebpage/'
         //change this url when using localhost to http://localhost:3000/
  
         )
